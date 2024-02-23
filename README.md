@@ -1,6 +1,6 @@
 # mern-stack-tutorial
 
-##*NOT WORKING*
+## *NOT WORKING*
 
 Fullstack application developed using MERN Stack. 
 Tutorial by Dave Gray
